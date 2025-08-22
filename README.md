@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jerry!</h1>
-<h3 align="center">A full-time 1st year student at the University of British Columbia</h3>
+<h3 align="center">A 1st year undergrad student at the University of British Columbia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerrywang1007&label=Profile%20views&color=0e75b6&style=flat" alt="jerrywang1007" /> </p>
 
