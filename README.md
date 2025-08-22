@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jerry!</h1>
 <h3 align="center">A full-time 1st year student at the University of British Columbia</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jerrywang1007&label=Profile%20views&color=0e75b6&style=flat" alt="jerrywang1007" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/jerry-wang-38a8b3338" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jerry-wang-38a8b3338" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jewwey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jewwey" height="30" width="40" /></a>
 </p>
 
